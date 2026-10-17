@@ -1,0 +1,7 @@
+# Set this to the directory containing the flir/ folder.
+path: datasets
+train: flir/images/visible/train
+val: flir/images/visible/test
+
+nc: 3
+names: [person, car, bicycle]

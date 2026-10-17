@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: ProtoHGF-Net
+message: If you use this software, please cite the ProtoHGF-Net paper.
+type: software
+license: AGPL-3.0
+authors:
+  - family-names: Chen
+    given-names: Xiangqi
+  - family-names: Zhang
+    given-names: Xiuling
+  - family-names: Yang
+    given-names: Chengzhuan
+  - family-names: Zhao
+    given-names: Li
+  - family-names: Zhang
+    given-names: Dawei
+  - family-names: Wang
+    given-names: Yanchao
+  - family-names: Chen
+    given-names: Liyuan
+  - family-names: Wang
+    given-names: Hua
+  - family-names: Peng
+    given-names: Hao
+  - family-names: Zheng
+    given-names: Zhonglong
+preferred-citation:
+  type: conference-paper
+  title: "ProtoHGF-Net: Prototype HyperGraph Fusion with Intra-modal Calibration for RGBT Object Detection"
+  year: 2026
+  conference:
+    name: Proceedings of the 34th ACM International Conference on Multimedia
+  doi: 10.1145/3767308.3835030
+  authors:
+    - family-names: Chen
+      given-names: Xiangqi
+    - family-names: Zhang
+      given-names: Xiuling
+    - family-names: Yang
+      given-names: Chengzhuan
+    - family-names: Zhao
+      given-names: Li
+    - family-names: Zhang
+      given-names: Dawei
+    - family-names: Wang
+      given-names: Yanchao
+    - family-names: Chen
+      given-names: Liyuan
+    - family-names: Wang
+      given-names: Hua
+    - family-names: Peng
+      given-names: Hao
+    - family-names: Zheng
+      given-names: Zhonglong
